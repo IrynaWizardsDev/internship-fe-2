@@ -1,5 +1,10 @@
 {
   "name": "internship-fe-2",
   "repository": "https://github.com/IrynaWizardsDev/internship-fe-2",
-  "keywords": ["node", "react", "heroku"]
+  "keywords": ["node", "react", "heroku"],
+  "buildpacks": [
+    {
+      "url": "https://github.com/mars/create-react-app-buildpack"
+    }
+  ]
 }
