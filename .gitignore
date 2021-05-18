@@ -128,7 +128,3 @@ package-lock.json
 
 # Editor-generated files
 /.idea
-
-# Firebase config
-src/firebase/config.js
-
